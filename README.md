@@ -9,7 +9,7 @@
 ## 🧠 Contexto do Projeto
 Este projeto foi desenvolvido ao longo de **1 mês e meio**, de forma **independente**, sem auxílio de IA ou consultorias externas, como parte da Atividade Extensionista do curso de Ciência de Dados.
 
-O trabalho teve como foco aplicar **Inteligência de Negócios** e **Inclusão Digital** em um pequeno negócio real: um **salão de beleza localizado no Brás/SP**, que até então operava apenas com **anotações manuais e planilhas desorganizadas**.
+O trabalho teve como foco aplicar **Inteligência de Negócios** e **Inclusão Digital** em um pequeno negócio real: um **salão de beleza localizado em SP**, que até então operava apenas com **anotações manuais e agendas desorganizadas**.
 
 ---
 
