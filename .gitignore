@@ -1,0 +1,10 @@
+data/raw/*.csv
+data/processed/*.csv
+data/external/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+venv/
+env/
+.env
